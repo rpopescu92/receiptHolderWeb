@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/receipt-holder.iml" filepath="$PROJECT_DIR$/.idea/receipt-holder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receipt-holder-model/receipt-holder-model.iml" filepath="$PROJECT_DIR$/receipt-holder-model/receipt-holder-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receipt-holder-service/receipt-holder-service.iml" filepath="$PROJECT_DIR$/receipt-holder-service/receipt-holder-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receipt-holder-web/receipt-holder-web.iml" filepath="$PROJECT_DIR$/receipt-holder-web/receipt-holder-web.iml" />
+    </modules>
+  </component>
+</project>
