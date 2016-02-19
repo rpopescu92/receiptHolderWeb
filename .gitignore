@@ -1,2 +1,4 @@
-.idea
-target
+/receipt-holder-web/target
+/receipt-holder-service/target
+/receipt-holder-model/target
+/.idea
